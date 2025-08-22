@@ -3,9 +3,6 @@
 
 A complete arcade-style platformer game built from scratch using Python and OpenGL, featuring custom physics simulation, multi-level gameplay, and dynamic enemy AI.
 
-## 🚀 **Live Demo**
-*Add screenshots or demo video here*
-
 ## 📋 **Table of Contents**
 - [Features](#features)
 - [Technology Stack](#technology-stack)
@@ -260,9 +257,6 @@ Arcade_Bounce/
 4. Push to the branch (`git push origin feature/NewFeature`)
 5. Open a Pull Request
 
-## 📝 **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 **Author**
 
@@ -270,7 +264,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@AFK-Swap](https://github.com/AFK-Swap)
 - Email: fahmidur.i.swapnil@gmail.com
 - University: BRAC University
-- Student ID: 22101227
 
 ## 🙏 **Acknowledgments**
 
@@ -282,3 +275,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *A showcase of custom game engine development and computer graphics programming* 🚀
+
